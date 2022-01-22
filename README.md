@@ -46,7 +46,7 @@
 <img alt="React" src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
 </p>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=dark&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=iamshakkib&theme=dark&show_icons=true)
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=iamshakkib&show_icons=true&locale=en&layout=compact" alt="iamshakkib" /></p>
 
