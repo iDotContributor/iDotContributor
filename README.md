@@ -50,7 +50,5 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=iamshakkib&show_icons=true&locale=en&layout=compact" alt="iamshakkib" /></p>
 
-[]:(<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=iamshakkib&show_icons=true&locale=en" alt="iamshakkib" /></p>)
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=iamshakkib&" alt="iamshakkib" /></p>
 
