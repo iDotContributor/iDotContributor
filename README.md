@@ -22,7 +22,7 @@
 
 - 📫 How to reach me **md2076379@gmail**
 
-- 📄 Know about my experiences [Java Developer Intern @ThrillEasy](Java Developer Intern @ThrillEasy)
+- 📄 Know about my experiences [Java Developer Intern @ThrillEasy]
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
