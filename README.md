@@ -34,8 +34,9 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="center">
-<img alt="Java" src="https://img.shields.io/badge/java%20-%2300599C.svg?&style=for-the-badge&logo=%2B%2B&ogoColor=white"/>
+<img alt="Java" src ="https://img.shields.io/badge/Java-%234ea94b.svg?&style=for-the-badge&logo=java&logoColor=white"/>
 <img alt="Springboot" src ="https://img.shields.io/badge/Springboot-%234ea94b.svg?&style=for-the-badge&logo=springboot&logoColor=red"/>
+<img alt="Hibernate" src ="https://img.shields.io/badge/Hibernate-%234ea94b.svg?&style=for-the-badge&logo=hibernate&logoColor=yellow"/>
 <img alt="Python" src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/>
 <img alt="HTML5" src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/>
 <img alt="CSS3" src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/>
