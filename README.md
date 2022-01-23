@@ -37,8 +37,8 @@
 <img alt="Java" src ="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white"/>
 <img alt="Springboot" src ="https://img.shields.io/badge/Spring_Boot-F2F4F9?style=for-the-badge&logo=spring-boot"/>
 <img alt="Hibernate" src ="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white"/>
-<img alt="Maven" src ="https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white"/>
-<img alt="Tomcat" src ="https://img.shields.io/badge/tomcat-%23D42029.svg?style=for-the-badge&logo=tomcat&logoColor=white"/>
+<img alt="Apache-Maven" src ="https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white"/>
+<img alt="Apache-Tomcat" src ="https://img.shields.io/badge/Apache%20Tomcat-%23D42029.svg?style=for-the-badge&logo=Apache%20Tomcat&logoColor=white"/>
 <img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=for-the-badge&logo=mongodb&logoColor=white"/>
 <img alt="MySQL" src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white"/>
 <img alt="Intellij IDE" src="https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white"/>
