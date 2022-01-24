@@ -57,7 +57,7 @@
 <img alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"/>
 </p>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=iamshakkib&theme=dark&show_icons=true)
+![](https://github-readme-stats.vercel.app/api?username=iamshakkib&theme=dark&show_icons=true)
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=iamshakkib&show_icons=true&locale=en&layout=compact" alt="iamshakkib" /></p>
 
