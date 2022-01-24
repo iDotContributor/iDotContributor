@@ -59,7 +59,7 @@
 
 ![](https://github-readme-stats.vercel.app/api?username=iamshakkib&theme=dark&show_icons=true)
 
-<p><img align="left" src="https://github.com/username/github-stats/blob/master/generated/languages.svg" alt="iamshakkib" /></p>
+![](https://github.com/username/github-stats/blob/master/generated/languages.svg)
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=iamshakkib&" alt="iamshakkib" /></p>
 
