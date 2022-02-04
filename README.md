@@ -1,4 +1,4 @@
-![I am a Backend Developer and willing to learn any technology becuase change is the only constant](https://www.canva.com/design/DAE3akLvTaw/4Ux1D27FBjZyu0ZV6cCI6A/view?utm_content=DAE3akLvTaw&utm_campaign=designshare&utm_medium=link&utm_source=shareyourdesignpanel)
+![I am a Backend Developer and willing to learn any technology becuase change is the only constant](https://media-exp1.licdn.com/dms/image/C5616AQHB6EpIZEW4Vw/profile-displaybackgroundimage-shrink_350_1400/0/1643999003891?e=1649289600&v=beta&t=Lvb5TkWlgE5Ue5OiOlwauouyEx5tw9A5CIybUQPDu_g)
 <h1 align="center">Hi 👋, I'm Sakib</h1>
 <h3 align="center">A passionate backend developer from India and willing to learn any technology</h3>
 
