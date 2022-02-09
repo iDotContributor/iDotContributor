@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://twitter.com/_shakkib" target="blank"><img src="https://img.shields.io/twitter/follow/_shakkib?logo=twitter&style=for-the-badge" alt="_shakkib" /></a> </p>
 
-- 🔭 I’m currently working on **Full-Stack NetFlix Clone using Springboot And React**
+- 🔭 I’m currently optimising the features of the project in github repo **Full-Stack NetFlix Clone using Springboot And React**
 
 - 🌱 I’m currently learning **Javascript, Blockchain and Microservices**
 
