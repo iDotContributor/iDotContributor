@@ -1,6 +1,6 @@
 ![I am a Backend Developer and willing to learn any technology becuase change is the only constant](https://media-exp1.licdn.com/dms/image/C5616AQHB6EpIZEW4Vw/profile-displaybackgroundimage-shrink_350_1400/0/1643999003891?e=1649289600&v=beta&t=Lvb5TkWlgE5Ue5OiOlwauouyEx5tw9A5CIybUQPDu_g)
 <h1 align="center">Hi 👋, I'm Sakib</h1>
-<h3 align="center">A passionate backend developer from India and willing to learn any technology</h3>
+<h3 align="center">A passionate Backend developer(till now) from India and willing to learn any technology</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iamshakkib&label=Profile%20views&color=0e75b6&style=flat" alt="iamshakkib" /> </p>
 
