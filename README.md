@@ -12,9 +12,9 @@
 
 - 🌱 I’m currently learning **Javascript, Blockchain and Microservices**
 
-- 👯 I’m looking to collaborate on **Java Backend**
+- 👯 I’m looking to collaborate on **Backend, Blockchain**
 
-- 🤝 I’m looking for help with **Frontend of Netflix**
+- 🤝 I’m looking for help with **Frontend**
 
 - 👨‍💻 All of my projects are available at [https://iamshakkib.github.io/portfolio/](https://iamshakkib.github.io/portfolio/)
 
