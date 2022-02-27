@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=darkhub"><img src="https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=darkhub" alt="iamshakkib" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/Aloo_Drugger" target="blank"><img src="https://img.shields.io/twitter/follow/_shakkib?logo=twitter&style=for-the-badge" alt="_shakkib" /></a> </p>
+<p align="left"> <a href="https://twitter.com/Aloo_Drugger" target="blank"><img src="https://img.shields.io/twitter/follow/Aloo_Drugger?logo=twitter&style=for-the-badge" alt="Aloo_Drugger" /></a> </p>
 
 - 🔭 I’m currently optimising the features of the project in github repo **Full-Stack NetFlix Clone using Springboot And React**
 
