@@ -8,11 +8,11 @@
 
 <p align="left"> <a href="https://twitter.com/Aloo_Drugger" target="blank"><img src="https://img.shields.io/twitter/follow/Aloo_Drugger?logo=twitter&style=for-the-badge" alt="Aloo_Drugger" /></a> </p>
 
-- 🔭 I’m currently optimising the features of the project in github repo **Full-Stack NetFlix Clone using Springboot And React**
+- 🔭 I’m currently building a blog website with advance features in github repo **Techblog**
 
 - 🌱 I’m currently learning **Javascript, Blockchain and Microservices**
 
-- 👯 I’m looking to collaborate on **Backend, Blockchain**
+- 👯 I’m looking to collaborate on the  **techblog** project
 
 - 🤝 I’m looking for help with **Frontend**
 
@@ -22,7 +22,7 @@
 
 - 📫 How to reach me **md2076379@gmail**
 
-- 📄 Know about my experiences [Java Developer Intern @ThrillEasy]
+- 📄 Know about my experiences [Back-End Developer Intern @isPAY]
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
