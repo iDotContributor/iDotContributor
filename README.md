@@ -24,6 +24,8 @@
 
 - 📄 Know about my experiences [Back-End Developer Intern @isPAY]
 
+- github: iamshakkib
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/_shakkib" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="_shakkib" height="30" width="40" /></a>
