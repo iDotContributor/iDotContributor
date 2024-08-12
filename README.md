@@ -6,15 +6,7 @@
 
 <p align="left"> <a href="https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=darkhub"><img src="https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=darkhub" alt="iamshakkib" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/Aloo_Drugger" target="blank"><img src="https://img.shields.io/twitter/follow/Aloo_Drugger?logo=twitter&style=for-the-badge" alt="Aloo_Drugger" /></a> </p>
-
-- 🔭 I’m currently building a blog website with advance features in github repo **Techblog**
-
-- 🌱 I’m currently learning **Javascript, Blockchain and Microservices**
-
-- 👯 I’m looking to collaborate on the  **techblog** project
-
-- 🤝 I’m looking for help with **Frontend**
+<p align="left"> <a href="[https://x.com/Springboy531679]" target="blank"><img src="https://img.shields.io/twitter/follow/Aloo_Drugger?logo=twitter&style=for-the-badge" alt="Aloo_Drugger" /></a> </p>
 
 - 👨‍💻 All of my projects are available at [https://iamshakkib.github.io/portfolio/](https://iamshakkib.github.io/portfolio/)
 
